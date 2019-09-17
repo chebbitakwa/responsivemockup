@@ -1,0 +1,142 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+footer{
+    background-image: linear-gradient(white,white, rgb(187, 183, 183));
+   
+}
+.limited {
+    padding: 20px;
+}
+
+footer div {
+    padding: 30px
+}
+hr{
+    z-index: 5;
+}
+li {
+    list-style: none;
+}
+.bttn{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px 25px ;
+    margin-top:50px;
+    margin-bottom:100px; 
+}
+.nav-bar ul {
+    display: flex;
+
+}
+.scroll{
+    opacity: 0;
+}
+.presentation .descreption {
+    margin-top:50px;
+    margin-bottom:50px; 
+}
+.nav-bar li {
+    margin: 20px;
+    color:white ;
+}
+.nav-bar,.adventure{
+    background-color: grey;
+    height: 95%;
+    width: 100%;
+    margin-left:20px;
+}
+.tt{
+    width: 100%
+}
+.nav-bar a{
+color:white
+}
+P{font-size: 13px
+
+}
+.logo{
+    margin-bottom: 100px;
+}
+/* .presentation{
+    padding: 100px;
+} */
+.h {
+
+    padding-top: 30%;
+    padding-bottom: 30%;
+    padding-left: 20%
+}
+.nature{
+    padding-top: 30%;
+    padding-bottom: 30%;
+    padding-right: 20%  
+}
+.row{
+    margin-bottom: 100px;
+}
+.bloc-image{
+    margin-bottom: 10px;
+    padding-right:40px;
+    padding-left: 40px
+}
+.features{
+    text-align: center;
+}
+
+.nav {
+    background-image: url(../res/grain.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: bottom left ; 
+   
+   padding:0px!important;
+}
+.slider{ margin-top: 100px;}
+.item {background-color:white;
+padding:20px;
+text-align:center }
+.item:hover{
+    box-shadow: 10px 5px 5px #888888;
+}
+.rotation {
+    margin-bottom: 5px
+}
+.text{
+    display:none
+}
+.image {
+    height: 300px;
+    background-image:url(https://static.fnac-static.com/multimedia/Images/FR/MC/08/df/ef/32497416/1540-1/tsp20171030234901/Savage-Widetone-papier-Seamle-Background-70-Gris-Orage-53-x-36.jpg);
+    
+}
+.image p{color :white ;
+font-size:20px;
+font-weight: 500;
+
+padding:30px;
+}
+.image:hover{
+    box-shadow: 10px 5px 5px #888888;
+}
+.e {padding: 10PX}
+.bg {background-color: blue;
+}
+.book{
+    padding: 5% 20%;
+    color :white;
+}
+.button a {
+    padding: 20px 50px;
+    background-color: antiquewhite;
+}
+.button{
+    padding: 10%
+}
+hr {width: 100%}
+.position{
+    padding-left: 40px;
+    padding-right: 40px
+}
